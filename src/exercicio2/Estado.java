@@ -1,4 +1,4 @@
-package exericio2;
+package exercicio2;
 
 public enum Estado {
     ACESA, APAGADA

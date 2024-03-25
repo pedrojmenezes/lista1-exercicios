@@ -1,7 +1,7 @@
 // Exercicio 2 da Lista
 // Caíque Cardoso e Pedro Menezes
 
-package exericio2;
+package exercicio2;
 public class Main{
 public static void main(String[] args) {
 
